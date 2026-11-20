@@ -1,6 +1,6 @@
 # First Principles — One MCAT Biology Puzzle a Day
 
-> A zero-backend daily biology puzzle web application inspired by the visual atmosphere, daily cadence, and interactive reveal flow of `firstprinciples.day`.
+> A zero-backend daily biology puzzle web application.
 
 Built with **React 18 + TypeScript + Vite + Tailwind CSS**.
 
