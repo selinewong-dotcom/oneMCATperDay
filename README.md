@@ -1,7 +1,8 @@
-<img width="1512" height="855" alt="Screenshot 2026-11-20 at 23 54 57" src="https://github.com/user-attachments/assets/dfd69a59-46c2-4515-a000-dfef75553313" />
-First Principles — One MCAT Biology Puzzle a Day
+# OneMCATperday, One MCAT Biology Puzzle a Day
 
-> A zero-backend daily biology puzzle web application.
+> A zero-backend daily biology puzzle web application @ 
+
+<img width="1512" height="855" alt="Screenshot 2026-11-20 at 23 54 57" src="https://github.com/user-attachments/assets/dfd69a59-46c2-4515-a000-dfef75553313" />
 
 Built with **React 18 + TypeScript + Vite + Tailwind CSS**.
 
