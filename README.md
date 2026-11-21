@@ -1,4 +1,4 @@
-# OneMCATperday, One MCAT Biology Puzzle a Day
+# One MCAT Biology Puzzle a Day
 
 > A zero-backend daily biology puzzle web application @ 
 
